@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/body-bible-deploy/static/css/main.dc4c846c.css",
-    "main.js": "/body-bible-deploy/static/js/main.b4cdbcac.js",
+    "main.css": "/body-bible-deploy/static/css/main.52b9f80c.css",
+    "main.js": "/body-bible-deploy/static/js/main.bac3d2ba.js",
     "static/js/787.f30b7f17.chunk.js": "/body-bible-deploy/static/js/787.f30b7f17.chunk.js",
     "static/media/Logo1.png": "/body-bible-deploy/static/media/Logo1.b57cab84aa3940948973.png",
     "static/media/bootstrap-icons.woff?": "/body-bible-deploy/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/body-bible-deploy/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/Quicksand-Medium.ttf": "/body-bible-deploy/static/media/Quicksand-Medium.eb896a79553a58953cbf.ttf",
+    "static/media/Walkway_UltraBold.ttf": "/body-bible-deploy/static/media/Walkway_UltraBold.d741bc4ca4f9657e04fa.ttf",
     "static/media/Body.svg": "/body-bible-deploy/static/media/Body.222f120e2967d63082823a310050bd88.svg",
     "index.html": "/body-bible-deploy/index.html",
-    "main.dc4c846c.css.map": "/body-bible-deploy/static/css/main.dc4c846c.css.map",
-    "main.b4cdbcac.js.map": "/body-bible-deploy/static/js/main.b4cdbcac.js.map",
+    "main.52b9f80c.css.map": "/body-bible-deploy/static/css/main.52b9f80c.css.map",
+    "main.bac3d2ba.js.map": "/body-bible-deploy/static/js/main.bac3d2ba.js.map",
     "787.f30b7f17.chunk.js.map": "/body-bible-deploy/static/js/787.f30b7f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4c846c.css",
-    "static/js/main.b4cdbcac.js"
+    "static/css/main.52b9f80c.css",
+    "static/js/main.bac3d2ba.js"
   ]
 }
