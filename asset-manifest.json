@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/body-bible-deploy/static/css/main.681bf25b.css",
-    "main.js": "/body-bible-deploy/static/js/main.2e622fb7.js",
+    "main.js": "/body-bible-deploy/static/js/main.a8d8a695.js",
     "static/js/787.f30b7f17.chunk.js": "/body-bible-deploy/static/js/787.f30b7f17.chunk.js",
     "static/media/Logo1.png": "/body-bible-deploy/static/media/Logo1.b57cab84aa3940948973.png",
     "static/media/bootstrap-icons.woff?": "/body-bible-deploy/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
@@ -10,11 +10,11 @@
     "static/media/Walkway_UltraBold.ttf": "/body-bible-deploy/static/media/Walkway_UltraBold.d741bc4ca4f9657e04fa.ttf",
     "index.html": "/body-bible-deploy/index.html",
     "main.681bf25b.css.map": "/body-bible-deploy/static/css/main.681bf25b.css.map",
-    "main.2e622fb7.js.map": "/body-bible-deploy/static/js/main.2e622fb7.js.map",
+    "main.a8d8a695.js.map": "/body-bible-deploy/static/js/main.a8d8a695.js.map",
     "787.f30b7f17.chunk.js.map": "/body-bible-deploy/static/js/787.f30b7f17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.681bf25b.css",
-    "static/js/main.2e622fb7.js"
+    "static/js/main.a8d8a695.js"
   ]
 }
