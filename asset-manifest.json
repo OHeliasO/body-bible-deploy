@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.008544e9.css",
-    "main.js": "/static/js/main.157cc0bb.js",
+    "main.css": "/static/css/main.11eb3453.css",
+    "main.js": "/static/js/main.15a43dbd.js",
     "static/js/787.f30b7f17.chunk.js": "/static/js/787.f30b7f17.chunk.js",
     "static/media/Logo1.png": "/static/media/Logo1.b57cab84aa3940948973.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
@@ -10,12 +10,12 @@
     "static/media/BookCover.jpg": "/static/media/BookCover.cc5b791fd733dc0d94d6.jpg",
     "static/media/Walkway_UltraBold.ttf": "/static/media/Walkway_UltraBold.d741bc4ca4f9657e04fa.ttf",
     "index.html": "/index.html",
-    "main.008544e9.css.map": "/static/css/main.008544e9.css.map",
-    "main.157cc0bb.js.map": "/static/js/main.157cc0bb.js.map",
+    "main.11eb3453.css.map": "/static/css/main.11eb3453.css.map",
+    "main.15a43dbd.js.map": "/static/js/main.15a43dbd.js.map",
     "787.f30b7f17.chunk.js.map": "/static/js/787.f30b7f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.008544e9.css",
-    "static/js/main.157cc0bb.js"
+    "static/css/main.11eb3453.css",
+    "static/js/main.15a43dbd.js"
   ]
 }
